@@ -10,3 +10,5 @@ optuna sample codes
 - [First Optimization — Optuna 0\.7\.0 documentation](https://optuna.readthedocs.io/en/stable/tutorial/first.html)
 
 - [optuna/examples at master · pfnet/optuna](https://github.com/pfnet/optuna/tree/master/examples)
+
+- [Optunaを使ってFFmpegのエンコードパラメータを最適化してみる](https://gist.github.com/sile/8aa1ff7808dd55298f51dd70c8b83092)
