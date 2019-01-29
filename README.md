@@ -1,6 +1,10 @@
 # optuna_sample
 optuna sample codes
 
+![optuna\_sample/Figure\_1\.png at master · AtsushiSakai/optuna\_sample](https://github.com/AtsushiSakai/optuna_sample/raw/master/imgs/Figure_1.png)
+
+![optuna\_sample/Figure\_2\.png at master · AtsushiSakai/optuna\_sample](https://github.com/AtsushiSakai/optuna_sample/raw/master/imgs/Figure_2.png)
+
 # Ref
 
 - [pfnet/optuna: A hyperparameter optimization framework](https://github.com/pfnet/optuna)
